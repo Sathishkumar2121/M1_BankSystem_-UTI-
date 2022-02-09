@@ -15,4 +15,3 @@
 ## Foreign Exchange
 ![Screenshot (132)](https://user-images.githubusercontent.com/65857693/132501006-ad309e57-970b-4264-801a-c2140b9f82ae.png)
 
-
